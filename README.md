@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# I'm an Astronomy final-year PhD student (or 'candidate' in the US terminology) at [@usp](https://github.com/usp).
+% I'm an Astronomy final-year PhD student (or 'candidate' in the US terminology) at [@usp](https://github.com/usp).
 
-#I'm interested in most things Galactic Archaeology, including metal-poor stars, star clusters, stellar substructures (phase mixed, streams, and overdensities), and dwarf galaxies.
+% I'm interested in most things Galactic Archaeology, including metal-poor stars, star clusters, stellar substructures (phase mixed, streams, and overdensities), and dwarf galaxies.
 
-# For the 2022/23 academic year, I'm staying at [@uchicago](https://github.com/uchicago) with the Near-field Cosmology group led by Prof. [@alexji](https://github.com/alexji).
+% For the 2022/23 academic year, I'm staying at [@uchicago](https://github.com/uchicago) with the Near-field Cosmology group led by Prof. [@alexji](https://github.com/alexji).
 
-# If you are looking for code/data used in any of [my 1st-author papers](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22%5Elimberg%2C%20guilherme%22%20year%3A2021-2023&sort=date%20desc%2C%20bibcode%20desc), but **can't** find it here, get in touch! The # # complete analyses for some of my papers were fully coded in Google Collab, so I could even provide the actual notebooks. 
+% If you are looking for code/data used in any of [my 1st-author papers](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22%5Elimberg%2C%20guilherme%22%20year%3A2021-2023&sort=date%20desc%2C%20bibcode%20desc), but **can't** find it here, get in touch! The # % complete analyses for some of my papers were fully coded in Google Collab, so I could even provide the actual notebooks. 
 
 Contact: gabriel.fabiano.souza [at] usp.br
 
