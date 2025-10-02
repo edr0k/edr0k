@@ -6,7 +6,9 @@ I am transitioning from academia to the industry, seeking opportunities to apply
 
 🔗 **Links:**
 * [**LinkedIn**](https://www.linkedin.com/in/gabsfdesouza)
-* [**Personal Website**](https://edr0k.github.io/)
+
+[<img src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=%23FFFFFF" />](https://edr0k.github.io/)
+[<img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-FF0000?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=FF0000" />](https://scholar.google.com.br/citations?user=1P12n58AAAAJ)
 
 ---
 
@@ -25,8 +27,6 @@ I am transitioning from academia to the industry, seeking opportunities to apply
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[<img src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=%23FFFFFF" />](https://edr0k.github.io/)
-[<img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-FF0000?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=FF0000" />](https://scholar.google.com.br/citations?user=1P12n58AAAAJ)
 
 
 <!--
