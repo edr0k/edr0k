@@ -1,7 +1,30 @@
-### Hi there 👋
+# Hi, I'm Gabriel! 👋
 
-Contact: gabriel.fabiano.souza [at] usp.br
+I'm a Data Scientist and Physicist passionate about using Machine Learning and data analysis to solve complex problems. Currently, I'm a PhD Student in Astrophysics at USP, where my research focuses on large-scale data analysis, anomaly detection, and statistical modeling.
 
+I am transitioning from academia to the industry, seeking opportunities to apply my strong quantitative background and practical experience to projects that drive business impact.
+
+🔗 **Links:**
+* [**LinkedIn**](https://www.linkedin.com/in/gabsfdesouza)
+* [**Personal Website**](https://edr0k.github.io/)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-5A67D8?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [<img src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=%23FFFFFF" />](https://edr0k.github.io/)
 [<img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-FF0000?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=FF0000" />](https://scholar.google.com.br/citations?user=1P12n58AAAAJ)
 
