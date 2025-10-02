@@ -5,10 +5,10 @@ I'm a Data Scientist and Physicist passionate about using Machine Learning and d
 I am transitioning from academia to the industry, seeking opportunities to apply my strong quantitative background and practical experience to projects that drive business impact.
 
 🔗 **Links:**
-* [**LinkedIn**](https://www.linkedin.com/in/gabsfdesouza)
 
-[<img src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=github&logoColor=%23FFFFFF" />](https://edr0k.github.io/)
-[<img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-FF0000?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=FF0000" />](https://scholar.google.com.br/citations?user=1P12n58AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabsfdesouza)
+[![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://edr0k.github.io/)
+[![Google Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-FF0000?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=FF0000)](https://scholar.google.com.br/citations?user=1P12n58AAAAJ)
 
 ---
 
